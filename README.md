@@ -6,6 +6,7 @@ This project is an **NLP-driven** tool designed to automatically transcribe, sum
 
 ### Features
 
+- **Video to Audio Conversion**: Converts podcast video to audio file and downloads them for processing.
 - **Speech-to-Text**: Transcribes podcast audio of any language into English text using OpenAI's Whisper model.
 - **Translation**: Translates non-English transcripts to English using a Hugging Face translation pipeline.
 - **Text Summarization**: Generates concise summaries of podcast episode using Hugging Face's pre-trained NLP model.
@@ -43,7 +44,7 @@ python app.py
 
 - Enter the copied video url in the url input field.
 - Click on Process.
-- Wait for some time and your desired results will get printed along with the audio conversion of video.
+- Wait for some time and your desired results will get displayed on web page and, also get saved in directory.
 
 https://github.com/user-attachments/assets/2811d3b4-1cdd-4219-a7cc-dcb46a32342e
 
