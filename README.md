@@ -20,8 +20,8 @@ This project is an **NLP-driven** tool designed to automatically transcribe, sum
 To run the application locally, follow these steps:
 1. Clone this repository to your local machine : 
 ```
-git clone https://github.com/prashver/nlp-driven-podcast-summarizer-and-insight-tool.git
-cd nlp-driven-podcast-summarizer-and-insight-tool
+git clone https://github.com/prashver/nlp-driven-video-summarizer-and-insight-tool.git
+cd nlp-driven-video-summarizer-and-insight-tool
 ```
 
 3. Create a virtual environment:
