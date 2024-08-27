@@ -1,0 +1,48 @@
+Entity: 6,000, Label: CARDINAL
+Entity: First, Label: ORDINAL
+Entity: petabyte, Label: NORP
+Entity: Gen AI apps, Label: PERSON
+Entity: AI, Label: ORG
+Entity: three, Label: CARDINAL
+Entity: first, Label: ORDINAL
+Entity: Second, Label: ORDINAL
+Entity: Paul, Label: PERSON
+Entity: 10, Label: CARDINAL
+Entity: TPU, Label: ORG
+Entity: zero, Label: CARDINAL
+Entity: 8,000, Label: CARDINAL
+Entity: French, Label: NORP
+Entity: AI Studio, Label: ORG
+Entity: 1,000, Label: CARDINAL
+Entity: French, Label: LANGUAGE
+Entity: Third, Label: ORDINAL
+Entity: QA, Label: ORG
+Entity: Roger, Label: PERSON
+Entity: LLM, Label: ORG
+Entity: Palm API, Label: LOC
+Entity: Lambda, Label: NORP
+Entity: Google, Label: ORG
+Entity: Bard, Label: ORG
+Entity: two, Label: CARDINAL
+Entity: K9, Label: NORP
+Entity: four, Label: CARDINAL
+Entity: year, Label: DATE
+Entity: John E. Walden, Label: PERSON
+Entity: five, Label: CARDINAL
+Entity: apps, Label: ORG
+Entity: second, Label: ORDINAL
+Entity: 60,000, Label: MONEY
+Entity: 540 billion, Label: CARDINAL
+Entity: API, Label: ORG
+Entity: 100,000, Label: MONEY
+Entity: ML, Label: GPE
+Entity: Maker Suite, Label: PERSON
+Entity: Two, Label: CARDINAL
+Entity: April 2022, Label: DATE
+Entity: Google AI, Label: ORG
+Entity: Google Cloud, Label: LOC
+Entity: billions, Label: CARDINAL
+Entity: Google Cloud, Label: FAC
+Entity: ML, Label: ORG
+Entity: Gen AI, Label: PERSON
+Entity: English, Label: LANGUAGE
