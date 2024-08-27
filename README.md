@@ -46,7 +46,7 @@ python app.py
 - Click on Process.
 - Wait for some time and your desired results will get displayed on web page and, also get saved in directory.
 
-https://github.com/user-attachments/assets/2811d3b4-1cdd-4219-a7cc-dcb46a32342e
+https://github.com/user-attachments/assets/0b610f55-652c-486b-af53-3c9f2fdabd6b
 
 ## Contributing
 
